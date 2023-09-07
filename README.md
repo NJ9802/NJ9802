@@ -1,6 +1,6 @@
 ### Hi there 👋
 *My name is Nelson Javier,
-I'm a Full Stack developer and mechanical engineer, I love web development and looking for simple solutions to complex problems. Let's connect!!*
+I'm a Front End developer and mechanical engineer, I love web development and looking for simple solutions to complex problems. Let's connect!!*
 
 
 - 🔭 I’m currently working on personal projects 
